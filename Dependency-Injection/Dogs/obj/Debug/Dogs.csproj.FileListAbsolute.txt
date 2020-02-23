@@ -1,0 +1,16 @@
+C:\Users\solar\source\repos\DependencyInjection\Dogs\bin\Debug\Dogs.dll
+C:\Users\solar\source\repos\DependencyInjection\Dogs\bin\Debug\Dogs.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dogs\bin\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Dogs\bin\Debug\Abstracts.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dogs\obj\Debug\Dogs.csprojResolveAssemblyReference.cache
+C:\Users\solar\source\repos\DependencyInjection\Dogs\obj\Debug\Dogs.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\DependencyInjection\Dogs\obj\Debug\Dogs.csproj.CopyComplete
+C:\Users\solar\source\repos\DependencyInjection\Dogs\obj\Debug\Dogs.dll
+C:\Users\solar\source\repos\DependencyInjection\Dogs\obj\Debug\Dogs.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Dogs\bin\Debug\Dogs.dll
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Dogs\bin\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Dogs\bin\Debug\Abstracts.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Dogs\obj\Debug\Dogs.csprojResolveAssemblyReference.cache
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Dogs\obj\Debug\Dogs.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Dogs\obj\Debug\Dogs.csproj.CopyComplete
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Dogs\obj\Debug\Dogs.dll

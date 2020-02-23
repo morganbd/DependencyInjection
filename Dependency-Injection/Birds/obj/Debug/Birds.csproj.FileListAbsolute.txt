@@ -1,0 +1,16 @@
+C:\Users\solar\source\repos\DependencyInjection\Birds\bin\Debug\Birds.dll
+C:\Users\solar\source\repos\DependencyInjection\Birds\bin\Debug\Birds.pdb
+C:\Users\solar\source\repos\DependencyInjection\Birds\bin\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Birds\bin\Debug\Abstracts.pdb
+C:\Users\solar\source\repos\DependencyInjection\Birds\obj\Debug\Birds.csprojResolveAssemblyReference.cache
+C:\Users\solar\source\repos\DependencyInjection\Birds\obj\Debug\Birds.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\DependencyInjection\Birds\obj\Debug\Birds.csproj.CopyComplete
+C:\Users\solar\source\repos\DependencyInjection\Birds\obj\Debug\Birds.dll
+C:\Users\solar\source\repos\DependencyInjection\Birds\obj\Debug\Birds.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Birds\bin\Debug\Birds.dll
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Birds\bin\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Birds\bin\Debug\Abstracts.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Birds\obj\Debug\Birds.csprojResolveAssemblyReference.cache
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Birds\obj\Debug\Birds.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Birds\obj\Debug\Birds.csproj.CopyComplete
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Birds\obj\Debug\Birds.dll

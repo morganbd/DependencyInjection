@@ -1,0 +1,10 @@
+C:\Users\solar\source\repos\DependencyInjection\Abstracts\bin\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Abstracts\bin\Debug\Abstracts.pdb
+C:\Users\solar\source\repos\DependencyInjection\Abstracts\obj\Debug\Abstracts.csprojResolveAssemblyReference.cache
+C:\Users\solar\source\repos\DependencyInjection\Abstracts\obj\Debug\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\DependencyInjection\Abstracts\obj\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Abstracts\obj\Debug\Abstracts.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Abstracts\bin\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Abstracts\obj\Debug\Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Abstracts\obj\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Abstracts\obj\Debug\Abstracts.csprojResolveAssemblyReference.cache

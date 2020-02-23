@@ -1,0 +1,16 @@
+C:\Users\solar\source\repos\DependencyInjection\Cats\bin\Debug\Cats.dll
+C:\Users\solar\source\repos\DependencyInjection\Cats\bin\Debug\Cats.pdb
+C:\Users\solar\source\repos\DependencyInjection\Cats\bin\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Cats\bin\Debug\Abstracts.pdb
+C:\Users\solar\source\repos\DependencyInjection\Cats\obj\Debug\Cats.csprojResolveAssemblyReference.cache
+C:\Users\solar\source\repos\DependencyInjection\Cats\obj\Debug\Cats.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\DependencyInjection\Cats\obj\Debug\Cats.csproj.CopyComplete
+C:\Users\solar\source\repos\DependencyInjection\Cats\obj\Debug\Cats.dll
+C:\Users\solar\source\repos\DependencyInjection\Cats\obj\Debug\Cats.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Cats\bin\Debug\Cats.dll
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Cats\bin\Debug\Abstracts.dll
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Cats\bin\Debug\Abstracts.pdb
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Cats\obj\Debug\Cats.csprojResolveAssemblyReference.cache
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Cats\obj\Debug\Cats.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Cats\obj\Debug\Cats.csproj.CopyComplete
+C:\Users\solar\source\repos\DependencyInjection\Dependency-Injection\Cats\obj\Debug\Cats.dll
